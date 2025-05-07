@@ -2,12 +2,11 @@
 
 <div align="center">
   <h3>Hello, I'm EunJu.</h3>
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejcho-dev&count_bg=%23093256&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <h3>Tech Stacks</h3>
   <div>
     <img src="https://img.shields.io/badge/Java-20232a?style=square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JSP-20232a?style=square&logo=JSP&logoColor=black"/>
     <img src="https://img.shields.io/badge/Spring-20232a?style=square&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/MyBatis-20232a?style=square&logo=MyBatis&logoColor=black"/>
     <br/>
@@ -26,12 +25,15 @@
 
   <h3>Studying</h3>
   <img src="https://img.shields.io/badge/Spring Boot-20232a?style=square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-20232a?style=square&logo=JPA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-20232a?style=square&logo=Hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/Thymeleaf-20232a?style=square&logo=Thymeleaf&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/Python-20232a?style=square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232a?style=square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-20232a?style=square&logo=Node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-20232a?style=square&logo=Node.js&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Android-20232a?style=square&logo=Android&logoColor=white"/>
 </div>
 
 
